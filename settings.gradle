@@ -1,0 +1,2 @@
+// core:框架核心包;easeUI_CN:环信easeui;app:业务包;
+include ':core', ':video', ':easeui'

@@ -1,0 +1,4 @@
+<resources>
+    <!--配置文件路径-->
+    <string name="properties_path">/mnt/sdcard/config.properties</string>
+</resources>
